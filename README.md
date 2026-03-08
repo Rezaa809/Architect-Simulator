@@ -14,6 +14,13 @@
 - **Ping Simulation:** Visualisasi ICMP Echo dengan pesan gaya CMD yang autentik.
 - **Save/Load:** Ekspor dan impor topologi dalam format JSON.
 
+## 📂 Template & Contoh
+Saya telah menyediakan file contoh topologi yang siap digunakan. Kamu bisa menemukannya di folder `examples/`.
+1. Download file `topology-sample.json`.
+2. Buka simulator **THE ARCHITECT**.
+3. Klik tombol **📂 IMPORT** di sidebar.
+4. Pilih file yang tadi di-download untuk memuat topologi secara otomatis.
+
 ## 🛠️ Teknologi
 - HTML5, CSS3, & Vanilla JavaScript.
 - SVG untuk pergerakan kabel dinamis.
